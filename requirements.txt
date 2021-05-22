@@ -1,0 +1,2 @@
+#requirements
+streamlit ==0.82.0
